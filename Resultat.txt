@@ -1,0 +1,2 @@
+Welzl Total exec time :0.2221078171978355
+Naive Total exec time :52.355360132291
